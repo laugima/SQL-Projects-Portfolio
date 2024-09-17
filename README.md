@@ -2,7 +2,7 @@
 Here you will find SQL projects that have been created as part of my Portfolio. 
 
 
-### 1. Data Cleansing Project:
+### [1. Data Cleansing Project:]([url](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%201%20-%20Data%20Cleaning.sql))
 **Description:**
 This project involves a comprehensive data cleansing process designed to enhance the quality and reliability of contributed datasets. The objective is to prepare the data for analysis by performing several critical tasks:
 - **Duplicate Removal:** Identifying and eliminating duplicate records to ensure that each entry is unique and accurate.
@@ -13,7 +13,7 @@ This project involves a comprehensive data cleansing process designed to enhance
 The outcome is a refined dataset that is clean, standardized, and ready for further analysis.
 
 
-### 2. Exploratory Data Analysis (EDA) Project:
+### [2. Exploratory Data Analysis (EDA) Project:]([url](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%202%20-%20Exploratory%20Data%20Analysis.sql))
 **Description:**
 This project focuses on Exploratory Data Analysis (EDA), where the goal is to analyze and interpret complex datasets to uncover meaningful insights. Key activities include:
 - **Data Exploration:** Investigating the dataset through various techniques such as summary statistics, data visualization, and correlation analysis.

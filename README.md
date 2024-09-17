@@ -9,6 +9,7 @@ This project involves a comprehensive data cleansing process designed to enhance
 - **Data Standardization:** Converting data into a consistent format to facilitate easier analysis and comparison.
 - **Handling Null or Empty Values:** Addressing missing data through imputation or removal to maintain the integrity of the dataset.
 - **Data Pruning:** Removing unnecessary or irrelevant data to streamline the dataset and improve its usability.
+
 The outcome is a refined dataset that is clean, standardized, and ready for further analysis.
 
 
@@ -19,4 +20,5 @@ This project focuses on Exploratory Data Analysis (EDA), where the goal is to an
 - **Pattern Recognition:** Identifying trends, patterns, and anomalies within the data that could lead to valuable insights.
 - **Hypothesis Testing:** Formulating and testing hypotheses to draw conclusions that are actionable and relevant to real-world scenarios.
 - **Insight Generation:** Providing data-driven recommendations based on the findings to inform decision-making processes.
+
 The project demonstrates my ability to transform raw data into actionable insights that can be applied in practical situations.

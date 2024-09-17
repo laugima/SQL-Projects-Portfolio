@@ -1,5 +1,7 @@
 -- EXPLORATORY DATA ANALYSIS
 
+-- https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
 SELECT *
 FROM layoffs_staging2
 ;

@@ -22,3 +22,16 @@ This project focuses on Exploratory Data Analysis (EDA), where the goal is to an
 - **Insight Generation:** Providing data-driven recommendations based on the findings to inform decision-making processes.
 
 The project demonstrates my ability to transform raw data into actionable insights that can be applied in practical situations.
+
+
+### [3. SQL Data Analysis Project: Restaurant Database:](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%203%20-%20Restaurant%20Database%20Analysis.sql)
+**Description:**
+This project focuses on SQL-based data analysis to explore and derive insights from a restaurant database. The objective is to analyze menu items, customer orders, and purchasing patterns using SQL queries. Key activities include:
+- **Data Exploration:** Investigating menu items and order details to understand the dataset’s structure and contents.
+- **Query Development:** Writing SQL queries to extract key metrics such as order counts, sales trends, and customer behavior patterns.
+- **Customer Analysis:** Analyzing purchasing habits, most popular items, and high-spending orders to uncover meaningful insights.
+- **Insight Generation:** Providing data-driven insights about menu performance and customer preferences for decision-making.
+
+This project demonstrates my SQL skills in data analysis, database management, and insight generation, showcasing my ability to analyze real-world datasets effectively.
+
+

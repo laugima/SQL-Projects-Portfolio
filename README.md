@@ -2,7 +2,7 @@
 Here you will find SQL projects that have been created as part of my Portfolio. 
 
 
-# **1. Data Cleaning for Business Insights: Layoffs Analysis**
+### [**1. Data Cleaning for Business Insights: Layoffs Analysis**](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%201%20-%20Data%20Cleaning.sql)
 In an ever-changing economic landscape, workforce reductions are a critical indicator of business performance, industry trends, and market stability. This project focuses on cleaning and standardizing a dataset of company layoffs to ensure accurate and reliable insights for further business analysis.
 
 ## **Key Data Cleaning Processes**  

@@ -18,6 +18,7 @@ A clean and structured dataset enables businesses, analysts, and policymakers to
 ✅ Provide better workforce planning strategies for companies and HR professionals.  
 
 By refining raw data into actionable insights, this project enhances the accuracy of economic and business decision-making processes.
+
 📌 **Dataset Source:** [Kaggle - Layoffs 2022](https://www.kaggle.com/datasets/swaptr/layoffs-2022)  
 📊 **Tools Used:** SQL, MySQL, Data Cleaning Techniques  
 

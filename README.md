@@ -19,9 +19,6 @@ A clean and structured dataset enables businesses, analysts, and policymakers to
 
 By refining raw data into actionable insights, this project enhances the accuracy of economic and business decision-making processes.
 
-📌 **Dataset Source:** [Kaggle - Layoffs 2022](https://www.kaggle.com/datasets/swaptr/layoffs-2022)  
-📊 **Tools Used:** SQL, MySQL, Data Cleaning Techniques  
-
 
 
 ### [2. Exploratory Data Analysis (EDA) Project:](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%202%20-%20Exploratory%20Data%20Analysis.sql)

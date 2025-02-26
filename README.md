@@ -2,15 +2,25 @@
 Here you will find SQL projects that have been created as part of my Portfolio. 
 
 
-### [1. Data Cleansing Project:](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%201%20-%20Data%20Cleaning.sql)
-**Description:**
-This project involves a comprehensive data cleansing process designed to enhance the quality and reliability of contributed datasets. The objective is to prepare the data for analysis by performing several critical tasks:
-- **Duplicate Removal:** Identifying and eliminating duplicate records to ensure that each entry is unique and accurate.
-- **Data Standardization:** Converting data into a consistent format to facilitate easier analysis and comparison.
-- **Handling Null or Empty Values:** Addressing missing data through imputation or removal to maintain the integrity of the dataset.
-- **Data Pruning:** Removing unnecessary or irrelevant data to streamline the dataset and improve its usability.
+# **1. Data Cleaning for Business Insights: Layoffs Analysis**
+In an ever-changing economic landscape, workforce reductions are a critical indicator of business performance, industry trends, and market stability. This project focuses on cleaning and standardizing a dataset of company layoffs to ensure accurate and reliable insights for further business analysis.
 
-The outcome is a refined dataset that is clean, standardized, and ready for further analysis.
+## **Key Data Cleaning Processes**  
+- **🔹 Duplicate Removal:** Eliminated redundant records to prevent data inflation and maintain data integrity.  
+- **🔹 Data Standardization:** Unified industry and company names, standardized dates, and formatted country names to ensure consistency in analysis.  
+- **🔹 Handling Null or Empty Values:** Addressed missing data in key fields, ensuring completeness for more reliable business insights.  
+- **🔹 Data Pruning:** Removed irrelevant rows and columns, focusing only on essential business metrics for workforce trend analysis.  
+
+## **Business Impact**  
+A clean and structured dataset enables businesses, analysts, and policymakers to:  
+✅ Identify industry-wide layoff trends and their economic implications.  
+✅ Assess how different sectors and company stages (startups vs. established firms) react to market downturns.  
+✅ Provide better workforce planning strategies for companies and HR professionals.  
+
+By refining raw data into actionable insights, this project enhances the accuracy of economic and business decision-making processes. 🚀
+📌 **Dataset Source:** [Kaggle - Layoffs 2022](https://www.kaggle.com/datasets/swaptr/layoffs-2022)  
+📊 **Tools Used:** SQL, MySQL, Data Cleaning Techniques  
+
 
 
 ### [2. Exploratory Data Analysis (EDA) Project:](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%202%20-%20Exploratory%20Data%20Analysis.sql)

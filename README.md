@@ -6,10 +6,10 @@ Here you will find SQL projects that have been created as part of my Portfolio.
 In an ever-changing economic landscape, workforce reductions are a critical indicator of business performance, industry trends, and market stability. This project focuses on cleaning and standardizing a dataset of company layoffs to ensure accurate and reliable insights for further business analysis.
 
 ## **Key Data Cleaning Processes**  
-- **🔹 Duplicate Removal:** Eliminated redundant records to prevent data inflation and maintain data integrity.  
-- **🔹 Data Standardization:** Unified industry and company names, standardized dates, and formatted country names to ensure consistency in analysis.  
-- **🔹 Handling Null or Empty Values:** Addressed missing data in key fields, ensuring completeness for more reliable business insights.  
-- **🔹 Data Pruning:** Removed irrelevant rows and columns, focusing only on essential business metrics for workforce trend analysis.  
+- **Duplicate Removal:** Eliminated redundant records to prevent data inflation and maintain data integrity.  
+- **Data Standardization:** Unified industry and company names, standardized dates, and formatted country names to ensure consistency in analysis.  
+- **Handling Null or Empty Values:** Addressed missing data in key fields, ensuring completeness for more reliable business insights.  
+- **Data Pruning:** Removed irrelevant rows and columns, focusing only on essential business metrics for workforce trend analysis.  
 
 ## **Business Impact**  
 A clean and structured dataset enables businesses, analysts, and policymakers to:  

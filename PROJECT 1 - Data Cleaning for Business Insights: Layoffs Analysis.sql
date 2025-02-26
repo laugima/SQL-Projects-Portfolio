@@ -1,6 +1,8 @@
 -- DATA CLEANING
 
--- https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
+📌 **Dataset Source:** [Kaggle - Layoffs 2022](https://www.kaggle.com/datasets/swaptr/layoffs-2022)  
+📊 **Tools Used:** SQL, MySQL, Data Cleaning Techniques  
 
 SELECT *
 FROM layoffs

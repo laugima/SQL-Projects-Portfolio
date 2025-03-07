@@ -2,6 +2,8 @@
 
 -- https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
+📌 **Technologies Used:** SQL (PostgreSQL), Data Cleaning, Aggregations, Window Functions, Joins, CTEs
+
 SELECT *
 FROM layoffs_staging2
 ;

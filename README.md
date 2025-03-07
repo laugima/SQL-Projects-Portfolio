@@ -1,5 +1,9 @@
 # SQL-Projects-Portfolio
-Here you will find SQL projects that have been created as part of my Portfolio. 
+This repository showcases SQL projects focused on business-driven data analysis. Each project demonstrates data exploration, trend identification, and strategic insights that can drive decision-making in various industries.  
+
+🔹 **Skills Highlighted:** SQL Queries, Data Cleaning, EDA, Business Intelligence  
+🔹 **Tools Used:** PostgreSQL, SQL Server, Google BigQuery, Excel  
+🔹 **Future Additions:** More advanced projects in **Data Warehousing**, **ETL Pipelines**, and **Machine Learning with SQL**  
 
 
 ### [**1. Data Cleaning for Business Insights: Layoffs Analysis**](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%201%20-%20Data%20Cleaning%20for%20Business%20Insights%3A%20Layoffs%20Analysis.sql)
@@ -39,14 +43,22 @@ A structured EDA provides organizations, analysts, and decision-makers with:
 By transforming raw data into meaningful insights, this analysis helps businesses proactively respond to economic shifts and industry challenges.  
 
 
-### [3. SQL Data Analysis Project: Restaurant Database:](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%203%20-%20Restaurant%20Database%20Analysis.sql)
-**Description:**
-This project focuses on SQL-based data analysis to explore and derive insights from a restaurant database. The objective is to analyze menu items, customer orders, and purchasing patterns using SQL queries. Key activities include:
-- **Data Exploration:** Investigating menu items and order details to understand the dataset’s structure and contents.
-- **Query Development:** Writing SQL queries to extract key metrics such as order counts, sales trends, and customer behavior patterns.
-- **Customer Analysis:** Analyzing purchasing habits, most popular items, and high-spending orders to uncover meaningful insights.
-- **Insight Generation:** Providing data-driven insights about menu performance and customer preferences for decision-making.
+### [3. Data-Driven Decision Making: Restaurant Market Analysis](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%203%20-%20Data-Driven%20Decision%20Making:%20Restaurant%20Market%20Analysis.sql)
+The restaurant industry is highly competitive, and data-driven insights are essential for optimizing pricing strategies, inventory management, and customer preferences. This project analyzes a Restaurant Database to identify key trends in menu pricing, category performance, and profitability drivers.  
 
-This project demonstrates my SQL skills in data analysis, database management, and insight generation, showcasing my ability to analyze real-world datasets effectively.
+### Key Analytical Processes  
+- **Menu Pricing Strategy:** Analyzed average pricing across categories to identify premium vs. budget-friendly segments.  
+- **Revenue Optimization:** Evaluated which menu items contribute most to revenue, helping restaurants refine their offerings.  
+- **Customer Preference Trends:** Assessed high-demand categories based on order frequency and sales volume.  
+- **Profitability Analysis:** Identified low-margin vs. high-margin items to optimize pricing and ingredient sourcing.  
+
+### Business Impact  
+This analysis enables restaurant owners, investors, and managers to:  
+✅ Maximize Revenue Potential by aligning pricing with consumer demand and competitor benchmarks.  
+✅ Enhance Menu Profitability through data-driven adjustments in pricing and promotions.  
+✅ Improve Inventory Management by forecasting demand for key menu items, reducing waste, and increasing efficiency.  
+
+By leveraging data insights, restaurants can refine their business strategies, increase profitability, and stay competitive in a dynamic market.  
+
 
 

@@ -8,13 +8,13 @@ This repository showcases SQL projects focused on business-driven data analysis.
 ### [**1. Data Cleaning for Business Insights: Layoffs Analysis**](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%201%20-%20Data%20Cleaning%20for%20Business%20Insights%3A%20Layoffs%20Analysis.sql)
 In an ever-changing economic landscape, workforce reductions are a critical indicator of business performance, industry trends, and market stability. This project focuses on cleaning and standardizing a dataset of company layoffs to ensure accurate and reliable insights for further business analysis.
 
-## Key Data Cleaning Processes
+### Key Data Cleaning Processes
 - **Duplicate Removal:** Eliminated redundant records to prevent data inflation and maintain data integrity.  
 - **Data Standardization:** Unified industry and company names, standardized dates, and formatted country names to ensure consistency in analysis.  
 - **Handling Null or Empty Values:** Addressed missing data in key fields, ensuring completeness for more reliable business insights.  
 - **Data Pruning:** Removed irrelevant rows and columns, focusing only on essential business metrics for workforce trend analysis.  
 
-## Business Impact
+### Business Impact
 A clean and structured dataset enables businesses, analysts, and policymakers to:  
 ✅ Identify industry-wide layoff trends and their economic implications.  
 ✅ Assess how different sectors and company stages (startups vs. established firms) react to market downturns.  

@@ -21,15 +21,22 @@ By refining raw data into actionable insights, this project enhances the accurac
 
 
 
-### [2. Exploratory Data Analysis (EDA) Project:](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%202%20-%20Exploratory%20Data%20Analysis.sql)
-**Description:**
-This project focuses on Exploratory Data Analysis (EDA), where the goal is to analyze and interpret complex datasets to uncover meaningful insights. Key activities include:
-- **Data Exploration:** Investigating the dataset through various techniques such as summary statistics, data visualization, and correlation analysis.
-- **Pattern Recognition:** Identifying trends, patterns, and anomalies within the data that could lead to valuable insights.
-- **Hypothesis Testing:** Formulating and testing hypotheses to draw conclusions that are actionable and relevant to real-world scenarios.
-- **Insight Generation:** Providing data-driven recommendations based on the findings to inform decision-making processes.
+### [2. Exploratory Data Analysis for Business Strategy: Layoffs Trends](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%202%20-%20Exploratory%20Data%20Analysis.sql)
+In a dynamic economic environment, understanding workforce reductions is crucial for evaluating market stability and business resilience. This project performs an Exploratory Data Analysis (EDA) on a dataset of company layoffs to uncover key trends and insights that businesses and policymakers can leverage for strategic decision-making.  
 
-The project demonstrates my ability to transform raw data into actionable insights that can be applied in practical situations.
+### Key Analytical Processes
+- **Data Exploration:** Assessed distributions, trends, and anomalies in layoffs across industries, company sizes, and time periods.  
+- **Industry & Market Segmentation:** Identified sectors most affected by layoffs, helping businesses anticipate risks and adapt strategies.  
+- **Temporal Analysis:** Analyzed layoffs over time to detect economic downturns, seasonal workforce adjustments, and recession impacts.  
+- **Cross-Sector Comparisons:** Compared startup layoffs vs. corporate downsizing to assess resilience across different business models.  
+
+### Business Impact  
+A structured EDA provides organizations, analysts, and decision-makers with:  
+✅ Early Warning Signals for potential industry disruptions and economic downturns.  
+✅ Benchmarking Insights to compare workforce stability against competitors.  
+✅ Strategic Workforce Planning for HR teams and executives to optimize hiring and restructuring decisions.  
+
+By transforming raw data into meaningful insights, this analysis helps businesses proactively respond to economic shifts and industry challenges.  
 
 
 ### [3. SQL Data Analysis Project: Restaurant Database:](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%203%20-%20Restaurant%20Database%20Analysis.sql)

@@ -21,7 +21,7 @@ By refining raw data into actionable insights, this project enhances the accurac
 
 
 
-### [2. Exploratory Data Analysis for Business Strategy: Layoffs Trends](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%202%20-%20Exploratory%20Data%20Analysis.sql)
+### [2. Exploratory Data Analysis for Business Strategy: Layoffs Trends](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%202%20-%20Exploratory%20Data%20Analysis%20for%20Business%20Strategy:%20Layoffs%20Trends.sql)
 In a dynamic economic environment, understanding workforce reductions is crucial for evaluating market stability and business resilience. This project performs an Exploratory Data Analysis (EDA) on a dataset of company layoffs to uncover key trends and insights that businesses and policymakers can leverage for strategic decision-making.  
 
 ### Key Analytical Processes

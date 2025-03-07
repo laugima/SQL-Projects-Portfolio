@@ -3,7 +3,6 @@ This repository showcases SQL projects focused on business-driven data analysis.
 
 🔹 **Skills Highlighted:** SQL Queries, Data Cleaning, EDA, Business Intelligence  
 🔹 **Tools Used:** PostgreSQL, SQL Server, Google BigQuery, Excel  
-🔹 **Future Additions:** More advanced projects in **Data Warehousing**, **ETL Pipelines**, and **Machine Learning with SQL**  
 
 
 ### [**1. Data Cleaning for Business Insights: Layoffs Analysis**](https://github.com/laugima/SQL-Projects-Portfolio/blob/main/PROJECT%201%20-%20Data%20Cleaning%20for%20Business%20Insights%3A%20Layoffs%20Analysis.sql)

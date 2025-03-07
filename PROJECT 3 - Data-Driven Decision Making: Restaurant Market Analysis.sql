@@ -1,3 +1,5 @@
+📌 **Technologies Used:** SQL (PostgreSQL), Data Cleaning, Joins, Aggregations, Subqueries, CASE Statements  
+
 USE restaurant_db;
 
 -- OJECTIVE 1: EXPLORE THE ITEMS TABLE.
